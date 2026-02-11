@@ -1,0 +1,20 @@
+// Workspace settings override user settings.
+{
+    "files.associations": {
+      "*.bookmarks": "plaintext",
+      "*.qp": "plaintext",
+      "*.sed": "shellscript",
+      "*.vpy": "python",
+      "*.ass": "plaintext"
+    },
+    "[python]": {
+      "editor.defaultFormatter": "charliermarsh.ruff",
+      "python.REPL.sendToNativeREPL": true,
+      "editor.formatOnSave": true,
+      "editor.codeActionsOnSave": {
+        "source.fixAll": "explicit",
+        "source.organizeImports": "explicit"
+      }
+    }
+  }
+  

@@ -1,0 +1,42 @@
+# By default, ignore _all_ files, but not directories
+/.venv
+!*/
+
+# Important project files
+!.gitattributes
+!.gitignore
+!*.ass
+!*.csv
+!*.log
+!*.md
+!*.midicsv
+!*.mscx
+!*.srt
+!*.xml
+
+# Fonts
+!*.otf
+!*.ttf
+!*.ttc
+
+# Muxtools files
+/_workdir
+/_binaries
+/muxed
+/muxes
+/output
+/audio
+/premux
+
+# Ignoring merged .ass files, since we want those to be generated locally always
+*Merged*.ass
+
+# Extracted files
+*Track*
+
+# Unignoring certain subtitle files because CCs
+!*.idx
+!*.srt
+!*.sub
+!*.sup
+!*scening*.txt
