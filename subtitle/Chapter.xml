@@ -1,0 +1,309 @@
+﻿<?xml version="1.0"?>
+<!-- <!DOCTYPE Chapters SYSTEM "matroskachapters.dtd"> -->
+<Chapters>
+  <EditionEntry>
+    <EditionFlagHidden>0</EditionFlagHidden>
+    <EditionFlagDefault>0</EditionFlagDefault>
+    <EditionUID>12925766675060260764</EditionUID>
+    <ChapterAtom>
+      <ChapterUID>9027164988852120</ChapterUID>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+      <ChapterTimeStart>00:00:00.000000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>[Moesubs] - Kimi no Na wa.: Prolog</ChapterString>
+        <ChapterLanguage>ind</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>16641187047503697047</ChapterUID>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+      <ChapterTimeStart>00:01:34.094000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>[Moesubs] - Kimi no Na wa.: Lagu Pembuka (RADWIMPS - Yumetorou)</ChapterString>
+        <ChapterLanguage>ind</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>6930923334414573967</ChapterUID>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+      <ChapterTimeStart>00:03:21.868000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>[Moesubs] - Kimi no Na wa.: Tubuhku bukan Tubuhku</ChapterString>
+        <ChapterLanguage>ind</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>11979544183991707264</ChapterUID>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+      <ChapterTimeStart>00:05:13.271000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>[Moesubs] - Kimi no Na wa.: Pagi yang Biasa</ChapterString>
+        <ChapterLanguage>ind</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>1611230313899319473</ChapterUID>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+      <ChapterTimeStart>00:08:37.308000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>[Moesubs] - Kimi no Na wa.: Kejutan Pasca-Tubuhku bukan Tubuhku</ChapterString>
+        <ChapterLanguage>ind</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>18165559249371957632</ChapterUID>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+      <ChapterTimeStart>00:12:11.314000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>[Moesubs] - Kimi no Na wa.: Meneruskan Tradisi Keluarga</ChapterString>
+        <ChapterLanguage>ind</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>2814787205780542119</ChapterUID>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+      <ChapterTimeStart>00:14:32.371000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>[Moesubs] - Kimi no Na wa.: Sake Terbaik di Dunia</ChapterString>
+        <ChapterLanguage>ind</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>2121051248731632562</ChapterUID>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+      <ChapterTimeStart>00:17:22.500000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>[Moesubs] - Kimi no Na wa.: Tubuhmu bukan Tubuhmu</ChapterString>
+        <ChapterLanguage>ind</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>12279969246466100124</ChapterUID>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+      <ChapterTimeStart>00:22:57.918000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>[Moesubs] - Kimi no Na wa.: Bekerja Beda Bungkusan</ChapterString>
+        <ChapterLanguage>ind</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>10135443654141723312</ChapterUID>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+      <ChapterTimeStart>00:27:05.624000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>[Moesubs] - Kimi no Na wa.: Tubuhku Milikku</ChapterString>
+        <ChapterLanguage>ind</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>15634446131739370131</ChapterUID>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+      <ChapterTimeStart>00:28:16.570000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>[Moesubs] - Kimi no Na wa.: Tubuhmu Milikmu</ChapterString>
+        <ChapterLanguage>ind</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>3208490684809211532</ChapterUID>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+      <ChapterTimeStart>00:29:53.542000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>[Moesubs] - Kimi no Na wa.: Syarat dan Ketentuan Bertukar Tubuh (RADWIMPS - Zen Zen Zense)</ChapterString>
+        <ChapterLanguage>ind</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>3696103296487234224</ChapterUID>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+      <ChapterTimeStart>00:32:42.836000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>[Moesubs] - Kimi no Na wa.: Menuju Badan Dewa</ChapterString>
+        <ChapterLanguage>ind</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>15597427047406321300</ChapterUID>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+      <ChapterTimeStart>00:37:26.995000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>[Moesubs] - Kimi no Na wa.: Kebenaran saat Berkencan</ChapterString>
+        <ChapterLanguage>ind</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>3975494445201698477</ChapterUID>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+      <ChapterTimeStart>00:41:57.765000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>[Moesubs] - Kimi no Na wa.: Malam Terakhir</ChapterString>
+        <ChapterLanguage>ind</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>4601713633872370330</ChapterUID>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+      <ChapterTimeStart>00:44:30.334000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>[Moesubs] - Kimi no Na wa.: Mencari Jawaban</ChapterString>
+        <ChapterLanguage>ind</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>13864581356185929387</ChapterUID>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+      <ChapterTimeStart>00:45:54.001000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>[Moesubs] - Kimi no Na wa.: Suatu Ketika dalam Tur Petunjuk</ChapterString>
+        <ChapterLanguage>ind</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>1874748641242391462</ChapterUID>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+      <ChapterTimeStart>00:48:28.656000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>[Moesubs] - Kimi no Na wa.: Nama Desanya adalah ....</ChapterString>
+        <ChapterLanguage>ind</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>17350043019165512602</ChapterUID>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+      <ChapterTimeStart>00:53:01.387000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>[Moesubs] - Kimi no Na wa.: Penginapan Pembuka Diri</ChapterString>
+        <ChapterLanguage>ind</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>4843489979529354656</ChapterUID>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+      <ChapterTimeStart>00:56:53.869000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>[Moesubs] - Kimi no Na wa.: Jawaban dalam Ingatan</ChapterString>
+        <ChapterLanguage>ind</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>3933345067372685458</ChapterUID>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+      <ChapterTimeStart>01:03:42.318000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>[Moesubs] - Kimi no Na wa.: Musubi: Putar-Balik Waktu</ChapterString>
+        <ChapterLanguage>ind</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>17031956359933074358</ChapterUID>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+      <ChapterTimeStart>01:06:03.793000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>[Moesubs] - Kimi no Na wa.: Rancangan Perencanaan</ChapterString>
+        <ChapterLanguage>ind</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>17774832698302182591</ChapterUID>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+      <ChapterTimeStart>01:09:44.931000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>[Moesubs] - Kimi no Na wa.: Festival Maut</ChapterString>
+        <ChapterLanguage>ind</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>3012677086887933061</ChapterUID>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+      <ChapterTimeStart>01:12:41.816000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>[Moesubs] - Kimi no Na wa.: Petunjuk 3 Tahun</ChapterString>
+        <ChapterLanguage>ind</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>15811766033398800554</ChapterUID>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+      <ChapterTimeStart>01:16:42.473000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>[Moesubs] - Kimi no Na wa.: Kataware-doki</ChapterString>
+        <ChapterLanguage>ind</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>9305570321505674112</ChapterUID>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+      <ChapterTimeStart>01:22:03.020000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>[Moesubs] - Kimi no Na wa.: Komet Jodoh (RADWIMPS - Sparkle)</ChapterString>
+        <ChapterLanguage>ind</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>8506700299219612811</ChapterUID>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+      <ChapterTimeStart>01:29:12.806000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>[Moesubs] - Kimi no Na wa.: Mengingatmu demi Kehidupanku (RADWIMPS - Sparkle)</ChapterString>
+        <ChapterLanguage>ind</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>5924800780629307560</ChapterUID>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+      <ChapterTimeStart>01:32:51.858000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>[Moesubs] - Kimi no Na wa.: Kenangan Lama Kurang Nama</ChapterString>
+        <ChapterLanguage>ind</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>17164064153058234011</ChapterUID>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+      <ChapterTimeStart>01:37:01.733000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>[Moesubs] - Kimi no Na wa.: Namamu.</ChapterString>
+        <ChapterLanguage>ind</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>14526522002822794128</ChapterUID>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+      <ChapterTimeStart>01:41:19.615000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>[Moesubs] - Kimi no Na wa.: Lagu Penutup (RADWIMPS - Nandemonaiya)</ChapterString>
+        <ChapterLanguage>ind</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+  </EditionEntry>
+</Chapters>
